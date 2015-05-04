@@ -1,12 +1,17 @@
+# files #
+#########
 settings.json
 config.json
+
+# directories #
+#########
+test_output
 
 
 # compiled source # 
 ###################
 *.class
 .classpath
-test_output/
 
 # Packages #
 ############
